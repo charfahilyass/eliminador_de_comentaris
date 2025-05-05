@@ -1,0 +1,14 @@
+C:\Users\charf\Desktop\eliminador-de-comentaris-charfahilyass\eliminador-de-comentaris\eliminador-de-comentaris\bin\Debug\net9.0\eliminador-de-comentaris.exe
+C:\Users\charf\Desktop\eliminador-de-comentaris-charfahilyass\eliminador-de-comentaris\eliminador-de-comentaris\bin\Debug\net9.0\eliminador-de-comentaris.deps.json
+C:\Users\charf\Desktop\eliminador-de-comentaris-charfahilyass\eliminador-de-comentaris\eliminador-de-comentaris\bin\Debug\net9.0\eliminador-de-comentaris.runtimeconfig.json
+C:\Users\charf\Desktop\eliminador-de-comentaris-charfahilyass\eliminador-de-comentaris\eliminador-de-comentaris\bin\Debug\net9.0\eliminador-de-comentaris.dll
+C:\Users\charf\Desktop\eliminador-de-comentaris-charfahilyass\eliminador-de-comentaris\eliminador-de-comentaris\bin\Debug\net9.0\eliminador-de-comentaris.pdb
+C:\Users\charf\Desktop\eliminador-de-comentaris-charfahilyass\eliminador-de-comentaris\eliminador-de-comentaris\obj\Debug\net9.0\eliminador-de-comentaris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charf\Desktop\eliminador-de-comentaris-charfahilyass\eliminador-de-comentaris\eliminador-de-comentaris\obj\Debug\net9.0\eliminador-de-comentaris.AssemblyInfoInputs.cache
+C:\Users\charf\Desktop\eliminador-de-comentaris-charfahilyass\eliminador-de-comentaris\eliminador-de-comentaris\obj\Debug\net9.0\eliminador-de-comentaris.AssemblyInfo.cs
+C:\Users\charf\Desktop\eliminador-de-comentaris-charfahilyass\eliminador-de-comentaris\eliminador-de-comentaris\obj\Debug\net9.0\eliminador-de-comentaris.csproj.CoreCompileInputs.cache
+C:\Users\charf\Desktop\eliminador-de-comentaris-charfahilyass\eliminador-de-comentaris\eliminador-de-comentaris\obj\Debug\net9.0\eliminador-de-comentaris.dll
+C:\Users\charf\Desktop\eliminador-de-comentaris-charfahilyass\eliminador-de-comentaris\eliminador-de-comentaris\obj\Debug\net9.0\refint\eliminador-de-comentaris.dll
+C:\Users\charf\Desktop\eliminador-de-comentaris-charfahilyass\eliminador-de-comentaris\eliminador-de-comentaris\obj\Debug\net9.0\eliminador-de-comentaris.pdb
+C:\Users\charf\Desktop\eliminador-de-comentaris-charfahilyass\eliminador-de-comentaris\eliminador-de-comentaris\obj\Debug\net9.0\eliminador-de-comentaris.genruntimeconfig.cache
+C:\Users\charf\Desktop\eliminador-de-comentaris-charfahilyass\eliminador-de-comentaris\eliminador-de-comentaris\obj\Debug\net9.0\ref\eliminador-de-comentaris.dll
